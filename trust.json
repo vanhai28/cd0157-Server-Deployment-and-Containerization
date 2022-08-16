@@ -4,7 +4,7 @@
         {
             "Effect": "Allow",
             "Principal": {
-                "AWS": "arn:aws:iam::577042591059:root"
+                "AWS": "arn:aws:iam::357753454664:root"
             },
             "Action": "sts:AssumeRole"
         }
