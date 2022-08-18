@@ -89,3 +89,5 @@ For more detail about each of these steps, see the project lesson.
 
 JWT_SECRET='myjwtsecret'
 LOG_LEVEL=DEBUG
+EXTERNAL-IP: ae9a7bb5a86fb41dba250111930e977a-1478988275.us-east-2.elb.amazonaws.com
+CLUSTER-IP: 10.100.128.187
